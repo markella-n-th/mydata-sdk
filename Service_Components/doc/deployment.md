@@ -23,7 +23,7 @@ Checkout master-branch.
         
     sudo apt install python-pip
     
-    sudo apt install celeryd redis-server
+    sudo apt install celery redis-server
     
     sudo apt install build-essential libssl-dev libffi-dev python-dev
     
